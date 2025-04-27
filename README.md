@@ -6,6 +6,7 @@ A Python script that scrapes upcoming Premier League football fixtures from [The
 
 - Scrapes match date, time, home team, and away team.
 - Saves all fixture data into a structured `results.json` file.
+- Handles cases where fixtures are missing or unavailable.
 
 ## Requirements
 
