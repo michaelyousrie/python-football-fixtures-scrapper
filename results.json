@@ -1,0 +1,248 @@
+[
+    {
+        "date": "Thursday 1 May 2025",
+        "time": "19:30 BST",
+        "home": "Nottm Forest",
+        "away": "Brentford"
+    },
+    {
+        "date": "Friday 2 May 2025",
+        "time": "20:00 BST",
+        "home": "Man City",
+        "away": "Wolves"
+    },
+    {
+        "date": "Saturday 3 May 2025",
+        "time": "12:30 BST",
+        "home": "Aston Villa",
+        "away": "Fulham"
+    },
+    {
+        "date": "Saturday 3 May 2025",
+        "time": "15:00 BST",
+        "home": "Everton",
+        "away": "Ipswich"
+    },
+    {
+        "date": "Saturday 3 May 2025",
+        "time": "15:00 BST",
+        "home": "Leicester",
+        "away": "Southampton"
+    },
+    {
+        "date": "Saturday 3 May 2025",
+        "time": "17:30 BST",
+        "home": "Arsenal",
+        "away": "AFC Bournemouth"
+    },
+    {
+        "date": "Sunday 4 May 2025",
+        "time": "14:00 BST",
+        "home": "Brentford",
+        "away": "Man Utd"
+    },
+    {
+        "date": "Sunday 4 May 2025",
+        "time": "14:00 BST",
+        "home": "Brighton",
+        "away": "Newcastle"
+    },
+    {
+        "date": "Sunday 4 May 2025",
+        "time": "14:00 BST",
+        "home": "West Ham",
+        "away": "Spurs"
+    },
+    {
+        "date": "Sunday 4 May 2025",
+        "time": "16:30 BST",
+        "home": "Chelsea",
+        "away": "Liverpool"
+    },
+    {
+        "date": "Monday 5 May 2025",
+        "time": "20:00 BST",
+        "home": "C Palace",
+        "away": "Nottm Forest"
+    },
+    {
+        "date": "Saturday 10 May 2025",
+        "time": "15:00 BST",
+        "home": "Fulham",
+        "away": "Everton"
+    },
+    {
+        "date": "Saturday 10 May 2025",
+        "time": "15:00 BST",
+        "home": "Ipswich",
+        "away": "Brentford"
+    },
+    {
+        "date": "Saturday 10 May 2025",
+        "time": "15:00 BST",
+        "home": "Southampton",
+        "away": "Man City"
+    },
+    {
+        "date": "Saturday 10 May 2025",
+        "time": "15:00 BST",
+        "home": "Wolves",
+        "away": "Brighton"
+    },
+    {
+        "date": "Saturday 10 May 2025",
+        "time": "17:30 BST",
+        "home": "AFC Bournemouth",
+        "away": "Aston Villa"
+    },
+    {
+        "date": "Sunday 11 May 2025",
+        "time": "12:00 BST",
+        "home": "Newcastle",
+        "away": "Chelsea"
+    },
+    {
+        "date": "Sunday 11 May 2025",
+        "time": "14:15 BST",
+        "home": "Man Utd",
+        "away": "West Ham"
+    },
+    {
+        "date": "Sunday 11 May 2025",
+        "time": "14:15 BST",
+        "home": "Nottm Forest",
+        "away": "Leicester"
+    },
+    {
+        "date": "Sunday 11 May 2025",
+        "time": "14:15 BST",
+        "home": "Spurs",
+        "away": "C Palace"
+    },
+    {
+        "date": "Sunday 11 May 2025",
+        "time": "16:30 BST",
+        "home": "Liverpool",
+        "away": "Arsenal"
+    },
+    {
+        "date": "Friday 16 May 2025",
+        "time": "20:00 BST",
+        "home": "Chelsea",
+        "away": "Man Utd"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "12:00 BST",
+        "home": "Everton",
+        "away": "Southampton"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "14:15 BST",
+        "home": "Aston Villa",
+        "away": "Spurs"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "14:15 BST",
+        "home": "West Ham",
+        "away": "Nottm Forest"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "15:00 BST",
+        "home": "Brentford",
+        "away": "Fulham"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "15:00 BST",
+        "home": "C Palace",
+        "away": "Wolves"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "15:00 BST",
+        "home": "Leicester",
+        "away": "Ipswich"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "16:30 BST",
+        "home": "Arsenal",
+        "away": "Newcastle"
+    },
+    {
+        "date": "Sunday 18 May 2025",
+        "time": "19:00 BST",
+        "home": "Man City",
+        "away": "AFC Bournemouth"
+    },
+    {
+        "date": "Monday 19 May 2025",
+        "time": "20:00 BST",
+        "home": "Brighton",
+        "away": "Liverpool"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "AFC Bournemouth",
+        "away": "Leicester"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Fulham",
+        "away": "Man City"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Ipswich",
+        "away": "West Ham"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Liverpool",
+        "away": "C Palace"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Man Utd",
+        "away": "Aston Villa"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Newcastle",
+        "away": "Everton"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Nottm Forest",
+        "away": "Chelsea"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Southampton",
+        "away": "Arsenal"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Spurs",
+        "away": "Brighton"
+    },
+    {
+        "date": "Sunday 25 May 2025",
+        "time": "16:00 BST",
+        "home": "Wolves",
+        "away": "Brentford"
+    }
+]
