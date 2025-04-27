@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 def main():
@@ -9,8 +10,13 @@ def main():
     website = 'https://www.theguardian.com/football/premierleague/fixtures'
 
     service = Service(executable_path=chrome_driver_path)
-    with webdriver.Chrome(service=service) as driver:
+    options = Options()
+    options.add_argument('--headless')
+
+    with webdriver.Chrome(service=service, options=options) as driver:
+        print(f"Visiting {website}")
         driver.get(website)
+        print("Landed On Website")
 
         containers = driver.find_elements(by=By.XPATH, value='//section[@class="dcr-jjtqpb"]')
         if not containers:
@@ -41,6 +47,8 @@ def main():
                         'home': home,
                         'away': away
                     })
+
+                    print(f"Fetched {home} vs {away} on {date} at {time}")
                 except Exception as e:
                     print(f"Skipping a match due to missing data: {e}")
                     continue
